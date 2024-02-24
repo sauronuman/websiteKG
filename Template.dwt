@@ -1,0 +1,351 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-gb" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled 1</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.FooterSmallPrint {
+	border-style: solid;
+	border-color: #8C6951;
+	background-color: #EED1BB;
+	font-size: small;
+}
+.auto-style2 {
+	text-align: center;
+}
+.FooterText {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.auto-style4 {
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.Navigation {
+	background-color: #EED1BB;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	font-family: "Lucida Sans";
+	font-size: large;
+	color: #000000;
+}
+.auto-style7 {
+	background-color: #A58D7C;
+}
+.auto-style8 {
+	text-align: center;
+	background-color: #A58D7C;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style9 {
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	background-color: #A58D7C;
+}
+.auto-style11 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-align: center;
+	border-right-style: none;
+	border-right-width: medium;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+	color: #000000;
+	font-size: medium;
+}
+.auto-style12 {
+	border-color: #8C6951;
+	border-width: 0px;
+	background-color: #EED1BB;
+}
+.auto-style13 {
+	background-color: #D2CEBD;
+}
+.auto-style14 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.FooterHeading {
+	text-align: center;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	background-color: #A58D7C;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style17 {
+	text-align: center;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: medium;
+}
+.auto-style27 {
+	text-align: center;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style28 {
+	text-align: center;
+	border-left-style: none;
+	border-left-width: medium;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style31 {
+	text-align: center;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style32 {
+	text-align: center;
+	border-left-style: solid;
+	border-left-width: 1px;
+}
+.auto-style33 {
+	text-align: center;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style34 {
+	text-align: center;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style35 {
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: none;
+	border-right-width: medium;
+	border-top-style: none;
+	border-top-width: medium;
+}
+.auto-style36 {
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: none;
+	border-right-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+}
+.auto-style37 {
+	background-color: #A58D7C;
+	border-top-style: none;
+	border-top-width: medium;
+}
+.auto-style39 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-align: center;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+	color: #000000;
+	font-size: medium;
+}
+.auto-style41 {
+	color: #000000;
+}
+.auto-style42 {
+	background-color: #FFFFFF;
+}
+.auto-style43 {
+	color: #000000;
+	font-size: large;
+}
+.auto-style44 {
+	text-align: center;
+	border-left-style: none;
+	border-left-width: medium;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-width: medium;
+	background-color: #EED1BB;
+}
+.}
+.auto-style45 {
+	font-size: medium;
+}
+.auto-style45 {
+	vertical-align: middle;
+}
+.auto-style46 {
+	border-width: 0px;
+}
+.auto-style47 {
+	background-color: #EED1BB;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	font-family: "Lucida Sans";
+	font-size: large;
+	color: #000000;
+	text-align: center;
+}
+.auto-style48 {
+	background-color: #EED1BB;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	font-family: "Lucida Sans";
+	font-size: large;
+	color: #000000;
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+
+<table style="width: 100%; height: 590px;" class="auto-style13">
+	<tr>
+		<td colspan="3">
+		<img alt="Hot Beans Web Banner" height="300" src="Pictures/Banner%20copy%201.jpg" width="100%" /></td>
+	</tr>
+	<tr>
+		<td colspan="3" style="height: 22px" class="Navigation">
+		<table style="width: 100%" align="center" class="auto-style12">
+			<tr class="Navigation">
+				<td style="height: 10px; width: 277px;" class="auto-style47">
+				<a href="Index.html" class=auto-style48><strong><em>
+				<span class="auto-style41">&nbsp;</span></em><span class="Navigation">Home</span></strong></a></td>
+				<td style="width: 348px; height: 10px;" class="auto-style39">
+				<a class="auto-style48" href="HTML/Courses.html"><strong>
+				<span class="auto-style43">Courses</span></strong></a></td>
+				<td style="width: 362px; height: 10px;" class="auto-style39">
+				<a class="auto-style48" href="HTML/Job%20Vacancies.html">
+				<strong><span class="auto-style43">Job Vacancies</span></strong></a></td>
+				<td class="auto-style39" style="width: 351px; height: 10px;">
+				<a class="auto-style48" href="HTML/Our%20Team.html"><strong>
+				<span class="auto-style43">Our Team</span></strong></a></td>
+				<td class="auto-style11" style="width: 351px; height: 10px;">
+				<strong><a class="auto-style48" href="HTML/Contact%20Us.html">
+				<span class="auto-style43">Contact Us</span></a></strong></td>
+			</tr>
+			<tr>
+				<td colspan="5"><div align="center"><FONT color="#ffffff" size="+1">
+					<MARQUEE bgcolor="#A58D7C" direction="right" loop="20" width="100%" class="auto-style14"><STRONG>Greetings, Welcome to Hot Beans Web.</STRONG></MARQUEE></FONT></DIV></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" style="height: 125px" class="auto-style42"><!-- #BeginEditable "Text" -->
+		<p style="height: 137px">&nbsp;</p>
+<!-- #EndEditable -->
+		</td>
+	</tr>
+	<tr>
+		<td style="height: 61px"></td>
+		<td class="FooterSmallPrint" style="height: 61px; width: 99%;">
+		<table style="width: 98%; height: 221px;" align="center" class="Navigation">
+			<tr>
+				<td style="height: 23px; width: 243px;" class="auto-style7"></td>
+				<td style="height: 23px; width: 285px" class="FooterHeading">
+				Address</td>
+				<td class="auto-style8" style="width: 409px; height: 23px" valign="top">
+				<span class="FooterHeading">Contact us by:</span><br />
+				</td>
+				<td style="height: 23px;" class="FooterHeading" valign="top" colspan="3">
+				Follow us on</td>
+				<td style="height: 23px; width: 253px;" class="FooterHeading">Get help</td>
+			</tr>
+			<tr>
+				<td class="auto-style2" rowspan="3" style="width: 243px">
+				<img alt="Working" height="115" src="Pictures/Women.jpeg" width="189" class="auto-style45" /></td>
+				<td style="width: 285px; height: 21px;" class="auto-style44"></td>
+				<td class="auto-style4" style="width: 409px; height: 21px;" valign="top">
+				<strong>&nbsp;&nbsp;&nbsp;</strong><span class="FooterText"><strong>Email:</strong></span><br />
+				&nbsp;
+				<a href="mailto:jumbobus27@hotmail.com">jumbobus27@hotmail.com</a></td>
+				<td style="height: 21px;" class="auto-style17" valign="top" colspan="3">
+				Twitter, Instagram and Facebook!</td>
+				<td style="height: 21px; width: 253px;" class="auto-style35"></td>
+			</tr>
+			<tr>
+				<td style="width: 285px; height: 46px;" class="auto-style44" valign="top">
+				<span class="FooterText">&nbsp;</span><br class="FooterText" />
+				<span class="FooterText"><strong>Main building</strong></span><br class="FooterText" />
+				<span class="FooterText">27-1 Wingrove Gardens, Belfast</span><br />
+				</td>
+				<td class="auto-style27" style="width: 409px; height: 46px;" valign="top">
+				<span class="FooterText"><strong>Phone Number:</strong></span><br />
+				07793401885</td>
+				<td style="width: 110px; height: 46px;" class="auto-style32">
+				<a href="https://en-gb.facebook.com/">
+				<img alt="Icon" height="40" src="Pictures/F%204.png" width="64" class="auto-style46" /></a></td>
+				<td style="width: 110px; height: 46px;" class="auto-style28">
+				<a href="https://twitter.com/?lang=en">
+				<img alt="X" height="42" src="Pictures/X.png" width="54" class="auto-style46" /></a></td>
+				<td style="width: 98px; height: 46px;" class="auto-style33">
+				<a href="https://www.instagram.com/">
+				<img alt="Logo" height="52" src="Pictures/Instagrаm-Logo.png" width="99" class="auto-style46" /></a></td>
+				<td style="height: 46px; width: 253px;" class="FooterSmallPrint">If 
+				you have any questions or queries please visit our 
+				<a href="HTML/Contact%20Us.html">Contact Us</a> 
+				page for support.</td>
+			</tr>
+			<tr>
+				<td style="width: 285px; height: 37px;" class="auto-style44"></td>
+				<td class="auto-style31" style="width: 409px; height: 37px;" valign="top">
+				&nbsp;</td>
+				<td style="height: 37px;" class="auto-style34" valign="top" colspan="3">
+				</td>
+				<td style="height: 37px; width: 253px;" class="auto-style36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+				&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="auto-style7" style="width: 243px; height: 76px"></td>
+				<td style="height: 76px;" class="auto-style9" colspan="5" valign="top">
+				<span class="FooterText"><strong>Don't miss out on anything and enter your email 
+				on our<a href="HTML/Contact%20Us.html"> contact page</a> for updates!</strong></span><br />
+				</td>
+				<td class="auto-style37" style="height: 76px; width: 253px;"></td>
+			</tr>
+		</table>
+		</td>
+		<td style="height: 61px"></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
